@@ -5,7 +5,10 @@
   
 /*Rule Section*/
 %%
-["]([^"\\\n]|\\.|\\\n)*["] {}
+["]([^"\\\n]|\\.|\\\n)*["] { 
+                                printf("Valid string\n");
+                           }
+
 end {return 0;}
 %% 
 

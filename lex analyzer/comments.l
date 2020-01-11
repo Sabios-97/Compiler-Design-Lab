@@ -1,7 +1,7 @@
 %{
 	#include<stdio.h>
 	#include<stdlib.h>
-	/* "printf(".*",".*");\n" {printf("print statement recd \n %s \n",yytext);} code for printing statemtns*/
+	/* "printf(".*",".*");\n" {printf("print statement recd \n %s \n",yytext);} code for printing statements*/
 %}
 
 
