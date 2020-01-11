@@ -1,3 +1,5 @@
 a.out
 lex analyzer/a.out
 lab1 - lexical analyzer/a.out
+lex analyzer/lex.yy.c
+lab1 - lexical analyzer/lex.yy.c
