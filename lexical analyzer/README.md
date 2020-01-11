@@ -5,3 +5,4 @@
 	and then remove all possible tabs and before printing each token or identifier
 	print a space before ever token and identifier
 		resultant problem : what about the spaces in print statement?
+3. paranthesis.l : Detects paranthesis in a program i.e., '(' and ')'.
